@@ -15,9 +15,9 @@
 
 # 멤버구성
 - 김상윤(조장) : 사용자 출석, 리워드 관리 ECS 서버 구축, ECS CI/CD 진행, 서버 IaC화 
-- 김지훈 :
-- 김건 : 
-- 김태환 : [사용자 인증 시스템 중 Cognito 구현](https://fuchsia-fluorine-f5b.notion.site/aws-Cognito-1d676846fd584d67bbb358764b0c772d), [리워드 관리자 시스템 중 고객출석현황조회 리소스 구현](https://fuchsia-fluorine-f5b.notion.site/e17d44ee67f5411eb46a0a7aa575e507)
+- 김지훈 : 리워드 관리자 도메인 구현
+- 김건 : 리워드 관리자 도메인 구현
+- 김태환 : [사용자 인증 시스템 Cognito 구현](https://fuchsia-fluorine-f5b.notion.site/aws-Cognito-1d676846fd584d67bbb358764b0c772d), [리워드 관리자 시스템 고객출석현황조회 리소스 구현](https://fuchsia-fluorine-f5b.notion.site/e17d44ee67f5411eb46a0a7aa575e507)
 
 # 아키텍처 다이어그램
 
