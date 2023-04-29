@@ -17,7 +17,7 @@
 - 김상윤(조장) : 사용자 출석, 리워드 관리 ECS 서버 구축, ECS CI/CD 진행, 서버 IaC화 
 - 김지훈 : 리워드 관리자 도메인 구현
 - 김건 : 리워드 관리자 도메인 구현
-- 김태환 : [사용자 인증 시스템 Cognito 구현](https://fuchsia-fluorine-f5b.notion.site/aws-Cognito-1d676846fd584d67bbb358764b0c772d), [리워드 관리자 시스템 고객출석현황조회 리소스 구현](https://fuchsia-fluorine-f5b.notion.site/e17d44ee67f5411eb46a0a7aa575e507)
+- 김태환 : [사용자 인증 시스템 Cognito 구현](https://github.com/ekseh93/Final_Project_aws_repo/blob/main/aws_Cognito_%EB%B0%9C%ED%91%9C_%EC%9E%90%EB%A3%8C_.pdf), [리워드 관리자 시스템 고객출석현황조회 리소스 구현](https://github.com/ekseh93/Final_Project_aws_repo/blob/main/%EB%A6%AC%EC%9B%8C%EB%93%9C_%EA%B4%80%EB%A6%AC%EC%9E%90_%EA%B3%A0%EA%B0%9D%EC%B6%9C%EC%84%9D%ED%98%84%ED%99%A9%EC%A1%B0%ED%9A%8C_%EA%B3%A0%EA%B0%9D%EB%A6%AC%EC%9B%8C%EB%93%9C%EC%88%98%EB%A0%B9%EC%A1%B0%ED%9A%8C.pdf)
 
 # 아키텍처 다이어그램
 
